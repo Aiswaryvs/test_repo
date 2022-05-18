@@ -2,3 +2,5 @@ git init => for initializing git repository.
 git status = > list all untracked files.
 git add -A => adding all files to staging area.
 git commit -m "message" => adding changes to local repository
+git remote add nae path
+git push -u name branch
